@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Five Things GDG İstanbul</string>
+    <string name="t_title">Mutlaka Okunması Gereken 5 Tarih Kitabı</string>
+    <string name="a1"><b>1. Ord.Prof.Dr. Mehmet Fuat Köprülü<br />Bizans Müesseselerinin Osmanlı Müesseselerine Tesiri</b> - Köprülü bu kitabında, İstanbul un fethi sonrası Osmanlı nın Bizans tan aldığı iddia edilen müesseseleri tek tek ele alarak, aslında bu tesirlerin nerelerde aranması gerektiğini söylüyor. Aynı zamanda kitap, Joseph von Hammer e karşı tenkitler içeriyor.</string>
+    <string name="a2"><b>2. Ord.Prof.Dr. Arif Müfid Mansel - Ege ve Yunan Tarihi</b> - Bu kitapta MÖ. 3000 ile MÖ. 300 arasındaki Ege ve Yunan dünyasının tarihi anlatılıyor. Kitap bolca resim, fotoğraf ve haritalarla destekleniyor.</string>
+    <string name="a3"><b>3. Şevket Süreyya Aydemir - Tek Adam</b> - Çoğu tarihçinin ortak görüşü olarak bu eser, Mustafa Kemal Atatürk hakkında hazırlanmış en iyi biyografidir.</string>
+    <string name="a4"><b>4. Prof.Dr. İbrahim Kafesoğlu - Türk Milli Kültürü</b> - Bu kitap, 1977 den bu yana 36. basımını gerçekleştirmiş, eskimeyen bir eserdir. İslam Öncesi Türk Tarihinin temele oturtulduğu kitapta, Türk siyasi tarihinin yanı sıra, gelenek-görenekler ve devlet teşkilatı çok iyi bir biçimde anlatılır.</string>
+    <string name="a5"><b>5. Prof.Dr. Ahmet Taşağıl - Kök Tengrinin Çocukları</b> - Bu kitap, İslam Öncesi Türk Tarihi alanındaki sayılı uzmanlardan olan Prof. Dr. Ahmet Taşağıl tarafından, Çin kaynaklarından yararlanılarak yazılmıştır. Kitapta Hunlar, Göktürkler, Uygurlar ve Avrupa Hunlarının yanı sıra birçok küçük Türk kavmi de anlatılmıştır.</string>
+</resources>
